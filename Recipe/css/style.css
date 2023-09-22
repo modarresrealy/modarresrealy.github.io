@@ -1,0 +1,150 @@
+
+
+html {background: #d1f09a75} 		 /* <-------------BG COLOR */
+
+
+h1{text-align: center;
+	font-size: 25px;
+	font-family: Courier New;
+	font-weight: bolder;
+	color: #333;					/* <---------------MAIN BLACK */
+	letter-spacing: -0.1px;
+}
+
+
+h2 {text-align: center;
+	font-size: 10px;
+	font-family: Courier New;		/* <---------------FONT */
+	font-weight: lighter;
+	letter-spacing: 9px;
+	color: #333;		
+	opacity: 50%;
+}
+	
+	#moj:hover{
+		background: black;
+		color: white;
+	}
+
+
+
+#spacer{
+	height: 50px;
+	width: 100%;
+	background: #333;
+	opacity: 100%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.info{
+	display: inline-block;
+	padding: 15px;
+	font-family: Courier New;
+	color: #e9f8d0;
+}
+
+
+h3 {font-family: Courier New;
+	text-align: center;
+	font-weight: bolder;
+	text-decoration-line: underline;
+}
+
+
+#sectionI{
+	font-family: Courier New;
+	font-weight: bolder;
+	display: flex;
+	justify-content: space-around;
+	overflow: hidden;
+}
+
+
+.containerImg{
+	height: 250px;
+	width: 50%;
+	background: #e1f2c5;  	 
+	display: inline-block;
+	margin: 5px;			
+	border-radius: 3px;
+	overflow: hidden;
+}
+
+
+#imgOne{
+	max-height: 350%;
+	max-width: 100%;
+
+}
+
+
+.container{
+	height: 250px;
+	width: 50%;
+	background: #e1f2c5;  	 /* <-------------CONTAINER COLOR */
+	display: inline-block;
+	margin: 5px;			
+	border-radius: 3px;		/* <---------------BORDER RADIUS */
+}
+
+
+.container:hover{
+	background: #333;
+	color: #e9f8d0;
+}
+
+
+#ingredientsList{
+	font-size: 14px; 		/* <--------- P FONT SIZE: 14PX */
+	height: 100%;
+	width: 100%;
+	font-weight: lighter;
+	margin-left: 10px;
+	line-height: 170%;
+}
+
+
+
+#sectionII{
+	height: auto;
+	width: 100%;
+	background: #e1f2c5;
+	font-family: Courier New;
+	border-radius: 3px;
+	align-content: center;
+
+}
+
+.directionsH{
+	margin: 20px;
+	padding-top: 20px;
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+.directionsP{
+	margin: 20px;
+	padding-left: 20px;
+	font-size: 14px;
+
+}
+
+
+#imgTwo{
+	height: 25%;
+	width: 35%;
+	border-radius: 2%;
+	margin-left: 32.5%;
+}
+
+
+
+
+
+
+
+
+
